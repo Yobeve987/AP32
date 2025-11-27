@@ -7,4 +7,4 @@ Ejercicio 6 - cat anillo.txt|grep "Mordor.$"
 Ejercicio 7
 Ejercicio 8 - cat anillo.txt|grep -w -B2 -o "elfo"
 Ejercicio 9 - cat anillo.txt|grep -A1 -i "compañía"
-Ejercicio 10
+Ejercicio 10 - cat anillo.txt|grep "Gandals"|grep "gris"
