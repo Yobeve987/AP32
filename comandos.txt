@@ -1,7 +1,7 @@
 Ejercicio 1 - cat anillo.txt|grep -w 'agujero'
 Ejercicio 2
 Ejercicio 3 - cat anillo.txt|grep -ow 'anillo'
-Ejercicio 4
+Ejercicio 4 - cat anillo-txt|grep -nvi 'anillo'
 Ejercicio 5
 Ejercicio 6
 Ejercicio 7
