@@ -1,10 +1,10 @@
 Ejercicio 1 - cat anillo.txt|grep -w 'agujero'
 Ejercicio 2
-Ejercicio 3 - cat anillo.txt|grep -ow 'anillo'
-Ejercicio 4 - cat anillo.txt|grep -nvi 'anillo'
+Ejercicio 3 - cat anillo.txt|grep -o -w 'anillo'
+Ejercicio 4 - cat anillo.txt|grep -n -v -i 'anillo'
 Ejercicio 5 - cat anillo.txt|grep "^Frodo"
 Ejercicio 6 - cat anillo.txt|grep "Mordor.$"
-Ejercicio 7
+Ejercicio 7 - cat anillotxt|grep -E "\b[a-zA-Z]*ue\b"
 Ejercicio 8 - cat anillo.txt|grep -w -B2 -o "elfo"
 Ejercicio 9 - cat anillo.txt|grep -A1 -i "compañía"
 Ejercicio 10 - cat anillo.txt|grep "Gandals"|grep "gris"
