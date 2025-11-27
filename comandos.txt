@@ -1,5 +1,5 @@
 Ejercicio 1 - cat anillo.txt|grep -w 'agujero'
-Ejercicio 2
+Ejercicio 2 - cat anillo.txt|grep -i 'agujero'
 Ejercicio 3 - cat anillo.txt|grep -o -w 'anillo'
 Ejercicio 4 - cat anillo.txt|grep -n -v -i 'anillo'
 Ejercicio 5 - cat anillo.txt|grep "^Frodo"
